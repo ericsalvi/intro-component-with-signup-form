@@ -26,8 +26,8 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop Design Solution](./design/desktop-design-solution.png)
-![Desktop Form Error](./design/mobile-form-error.png)
-![Desktop Form Submit](./design/mobile-form-submit.png)
+![Desktop Form Error](./design/desktop-form-error.png)
+![Desktop Form Submit](./design/desktop-form-submit.png)
 
 ### Links
 
