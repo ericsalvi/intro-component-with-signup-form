@@ -10,6 +10,7 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+- [Author](#author)
 
 ## Overview
 
@@ -31,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/intro-component-solution-mobilefirst-js-flex-fun-submit-message-xxP1qRJV_)
+- Live Site URL: [https://ericsalvi.github.io/intro-component-with-signup-form/](https://ericsalvi.github.io/intro-component-with-signup-form/)
 
 ## My process
 
@@ -45,3 +46,8 @@ Users should be able to:
 - Visual Studio Code
 - https://autoprefixer.github.io/
 - axe DevTools for accessibility
+
+## Author
+
+- Website - [Eric Salvi](https://github.com/ericsalvi)
+- Frontend Mentor - [@ericsalvi](https://www.frontendmentor.io/profile/ericsalvi)
