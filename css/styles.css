@@ -16,6 +16,9 @@
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
 }
+body {
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+}
 main {
   -webkit-box-align: center;
   -ms-flex-align: center;
