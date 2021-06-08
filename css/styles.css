@@ -20,7 +20,8 @@ main {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background: url(../images/bg-intro-mobile.png), var(--red);
+  background-color: var(--red);
+  background-image: url(../images/bg-intro-mobile.png);
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -180,8 +181,10 @@ button:active {
 
 @media (min-width: 900px) {
   main {
-    background: url(../images/bg-intro-desktop.png) no-repeat center top,
-      var(--red);
+    background-color: var(--red);
+    background-image: url(../images/bg-intro-desktop.png);
+    background-position: center top;
+    background-repeat: no-repeat;
     background-size: cover;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
